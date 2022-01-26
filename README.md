@@ -2,7 +2,7 @@
 A simple duinocoin pool API wrapper for golang.
 
 # Benchmarks
-Benchmarked using [this script](https://gist.github.com/LunaWasFlaggedAgain/14f54734db38c50e634532c30ddf2419)
+Benchmarked using [this code](https://gist.github.com/LunaWasFlaggedAgain/14f54734db38c50e634532c30ddf2419)
 ## AMD Ryzen 5 5600G (12) @ 3.900GHz
 ```
 DoJob(AVR): 74 (81.33µs)
